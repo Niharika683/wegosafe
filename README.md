@@ -73,7 +73,7 @@ WeGoSafe/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/WeGoSafe.git
+git clone https://github.com/Niharika683/wegosafe.git
 ```
 
 ### Open in Android Studio
