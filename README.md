@@ -1,10 +1,10 @@
-# 🛡️ We Go Safe - Women Safety Application
+# We Go Safe - Women Safety Application
 
 We Go Safe is an Android-based women safety application designed to provide immediate assistance during emergency situations. The app enables users to quickly alert their trusted contacts by sending an SOS message along with their real-time location. Built using Android Studio, the application focuses on accessibility, speed, and reliability to enhance personal safety.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Women's safety remains a significant concern in today's society. We Go Safe addresses this issue by offering an emergency response system that allows users to notify pre-configured emergency contacts instantly. In critical situations, users can simply shake their phone to trigger an SOS alert, eliminating the need to unlock the device or navigate through the application.
 
@@ -12,20 +12,20 @@ The application automatically retrieves the user's current location and sends it
 
 ---
 
-## 🚀 Features
+## Features
 
-* 📍 Real-Time Location Sharing
-* 📱 Shake Detection for Emergency Alerts
-* 🚨 One-Tap SOS Activation
-* 📞 Emergency Contact Management
-* 📩 Automatic SMS with Live Location
-* 🔒 Simple and User-Friendly Interface
-* ⚡ Fast Emergency Response Mechanism
-* 📡 GPS-Based Location Tracking
+* Real-Time Location Sharing
+* Shake Detection for Emergency Alerts
+* One-Tap SOS Activation
+* Emergency Contact Management
+* Automatic SMS with Live Location
+* Simple and User-Friendly Interface
+* Fast Emergency Response Mechanism
+* GPS-Based Location Tracking
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Component         | Technology                      |
 | ----------------- | ------------------------------- |
@@ -38,7 +38,7 @@ The application automatically retrieves the user's current location and sends it
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 WeGoSafe/
@@ -57,7 +57,7 @@ WeGoSafe/
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. User registers emergency contact numbers.
 2. The application continuously monitors device shake events.
@@ -68,7 +68,7 @@ WeGoSafe/
 
 ---
 
-## 📲 Installation
+## Installation
 
 ### Clone the Repository
 
@@ -91,7 +91,7 @@ git clone https://github.com/Niharika683/wegosafe.git
 
 ---
 
-## 🔐 Permissions Required
+## Permissions Required
 
 * ACCESS_FINE_LOCATION
 * ACCESS_COARSE_LOCATION
@@ -101,7 +101,7 @@ git clone https://github.com/Niharika683/wegosafe.git
 
 ---
 
-## 🎯 Future Enhancements
+## Future Enhancements
 
 * Voice-Activated SOS Commands
 * Emergency Audio Recording
@@ -112,15 +112,15 @@ git clone https://github.com/Niharika683/wegosafe.git
 
 ---
 
-## 👨‍💻 Developed By
+## Developed By
 
-**[Your Name]**
+**Niharika Sharma**
 
 A mobile application focused on improving women's safety through instant emergency communication and location-sharing technology.
 
 ---
 
-## 📄 License
+## License
 
 This project is developed for educational and research purposes.
 
